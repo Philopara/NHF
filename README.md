@@ -70,23 +70,4 @@ git push
 
 ---
 
-### Step 4 (Optional): Custom Domain
-
-To use `www.nelohouseoffashion.com`:
-
-1. Buy the domain at [namecheap.com](https://namecheap.com)
-2. In Cloudflare Pages → **Custom Domains** → Add domain
-3. Follow Cloudflare's DNS instructions
-
----
-
-## 📋 Still Pending
-
-- [ ] Chinelo portrait photo (for the About section)
-- [ ] Additional gallery photos
-- [ ] Real client testimonials to replace placeholders
-- [ ] Custom domain (optional)
-
----
-
 *© 2025 Nelo House of Fashion. All rights reserved.*
